@@ -1,19 +1,72 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">[Your profession | Interests | What you do]</h3>
+<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+<h3 align="center">🚀 Passionate Developer | 💡 Problem Solver | 🎨 UI/UX Enthusiast</h3>
 
-- 🔭 I’m currently working on **[Your Project]**
-- 🌱 I’m learning **[Technologies/Skills]**
-- 🤝 I’m open to collaborating on **[Project Types]**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="yourusername" />
+</p>
+
+---
+
+## 🔥 About Me
+- 🔭 Currently working on **[Your Project Name]**
+- 🌱 Learning **[Technologies You Are Learning]**
+- 💡 Open to **collaborations on Open Source projects**
 - 💬 Ask me about **[Your Expertise]**
-- 📫 Reach me at **[Your Email/Social Links]**
+- 📫 Reach me at **[Your Email or Socials]**
+- ⚡ Fun fact: *[Something Unique About You]*  
 
-### 🌐 Connect with me:
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+---
 
-### 🚀 Tech Stack:
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+## 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,flutter,firebase,js,react,html,css,tailwind,git,github,vscode" />
+</p>
+
+---
+
+## 🌎 Connect with Me
+<p align="center">
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats & Streak
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" alt="yourusername GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%" alt="yourusername GitHub Streak"/>
+</p>
+
+---
+
+## 🎯 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="yourusername Top Languages"/>
+</p>
+
+---
+
+## ⚡ Fun Extra: Random Dev Quote
+> <p align="center">
+> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+> </p>
+
+---
+
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+### 🚀 **Star, Fork & Connect!**  
+🔹 If you like my work, don't forget to ⭐ the repo!   
+🔹 Feel free to **connect with me** for collaborations.  
+
+---
+
+🌟 **Let's build something amazing together!** 🚀🎉  
