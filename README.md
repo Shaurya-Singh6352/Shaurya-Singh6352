@@ -1,9 +1,9 @@
-<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there! 👋 I'm Shaurya</h1>
 <h3 align="center">🚀 Passionate Developer | 💡 Problem Solver | 🎨 UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="yourusername" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=Shaurya-Singh6352&label=Profile%20Views&color=0e75b6&style=flat" alt="Shaurya-Singh6352" />
+  <img src="https://img.shields.io/github/followers/Shaurya-Singh6352?label=Followers&style=social" alt="Shaurya-Singh6352" />
 </p>
 
 ---
