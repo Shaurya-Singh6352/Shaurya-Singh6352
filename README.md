@@ -14,7 +14,7 @@
 - 💡 Open to **collaborations on Open Source projects**
 - 💬 Ask me about **Flutter Development**
 - 📫 Reach me at **https://www.linkedin.com/in/shaurya-singh-174896257/**
-- ⚡ Fun fact: *I am punctual*  
+- ⚡ Fun fact: *My code runs faster than my internet connection! 😆💻⚡*  
 
 ---
 
