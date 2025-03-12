@@ -10,41 +10,41 @@
 
 ## 🔥 About Me
 - 🔭 Currently working on **[Your Project Name]**
-- 🌱 Learning **[Technologies You Are Learning]**
+- 🌱 Learning **Flutter | Firebase**
 - 💡 Open to **collaborations on Open Source projects**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 Reach me at **[Your Email or Socials]**
-- ⚡ Fun fact: *[Something Unique About You]*  
+- 💬 Ask me about **Flutter Development**
+- 📫 Reach me at **https://www.linkedin.com/in/shaurya-singh-174896257/**
+- ⚡ Fun fact: *I am punctual*  
 
 ---
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,flutter,firebase,js,react,html,css,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,flutter,firebase,git,github,vscode" />
 </p>
 
 ---
 
 ## 🌎 Connect with Me
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://github.com/Shaurya-Singh6352"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/shaurya-singh-174896257/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/shaurya_5763"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" /></a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" alt="yourusername GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%" alt="yourusername GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaurya-Singh6352&show_icons=true&theme=radical" width="48%" alt="Shaurya-Singh6352 GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaurya-Singh6352&theme=radical" width="48%" alt="Shaurya-Singh6352 GitHub Streak"/>
 </p>
 
 ---
 
 ## 🎯 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="yourusername Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya-Singh6352&layout=compact&theme=radical" alt="Shaurya-Singh6352 Top Languages"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shaurya-Singh6352&theme=radical&margin-w=15&margin-h=15"/>
 </p>
 
 ---
