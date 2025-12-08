@@ -9,11 +9,11 @@
 ---
 
 ## 🔥 About Me
-- 🔭 Currently working on **[Your Project Name]**
+- 🔭 Currently working on **Quickelivery**
 - 🌱 Learning **Flutter | Firebase**
 - 💡 Open to **collaborations on Open Source projects**
 - 💬 Ask me about **Flutter Development**
-- 📫 Reach me at **https://www.linkedin.com/in/shaurya-singh-174896257/**
+- 📫 Reach me at **https://www.linkedin.com/in/shauryasingg/**
 - ⚡ Fun fact: *My code runs faster than my internet connection! 😆💻⚡*  
 
 ---
