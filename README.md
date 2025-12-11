@@ -20,7 +20,7 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,flutter,firebase,git,github,vscode,androidstudio,figma,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=cpp,flutter,firebase,git,github,vscode,androidstudio,figma,mysql,mongodb,postman" />
 </p>
 
 ---
