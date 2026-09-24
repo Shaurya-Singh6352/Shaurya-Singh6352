@@ -117,7 +117,7 @@ A full-stack resume analysis platform that allows users to securely upload resum
 * 🐳 Containerized the backend with **Docker** and implemented **GitHub Actions CI/CD** for automated build and deployment.
 * 🌐 Deployed the **Flutter frontend on Vercel, Spring Boot backend on Render, and MySQL database on Aiven**.
 
-🔗 **[GitHub Repository](https://github.com/Shaurya-Singh6352/resume-analyzer-backend)**
+🔗 **Repositories:** [Backend](https://github.com/Shaurya-Singh6352/resume-analyzer-backend) · [Frontend](https://github.com/Shaurya-Singh6352/resume-analyzer-web)
 
 ---
 
